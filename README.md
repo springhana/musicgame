@@ -19,9 +19,9 @@
 <br>
 <hr>
 
-https://github.com/springhana/musicgame/assets/97121074/1f3aea82-6438-48cd-893c-f604ec70bdf0
+https://github.com/springhana/musicgame/assets/97121074/71abde2e-8318-40c7-896b-819c5b30d002
+
 <br>
 <hr>
 
-![Untitled video - Made with Clipchamp (1)](https://github.com/springhana/musicgame/assets/97121074/afae5a4d-85cd-4ee8-b448-d0fbb5867776)
-
+![Untitled video - Made with Clipchamp (1)](https://github.com/springhana/musicgame/assets/97121074/9d967fa5-6521-458a-8060-c2e055ebc3c9)
