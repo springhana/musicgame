@@ -16,3 +16,12 @@
 # 게임 화면 
 
 ![image](https://github.com/springhana/musicgame/assets/97121074/591797eb-ecec-408e-9e82-af206b3bc3f9)
+<br>
+<hr>
+
+https://github.com/springhana/musicgame/assets/97121074/1f3aea82-6438-48cd-893c-f604ec70bdf0
+<br>
+<hr>
+
+![Untitled video - Made with Clipchamp (1)](https://github.com/springhana/musicgame/assets/97121074/afae5a4d-85cd-4ee8-b448-d0fbb5867776)
+
